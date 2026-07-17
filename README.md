@@ -4,74 +4,64 @@
 
 🎓 B.Tech Graduate in Information Technology
 
-💻 Full Stack & Generative AI Developer
+💻 Aspiring Full Stack & Generative AI Developer
 
-🌱 Currently learning Advanced Python, SQL, MERN Stack & Generative AI
+🌱 Currently learning Python, SQL, React.js, MERN Stack 
 
-🎯 Interested in AI Applications, Web Development and Machine Learning
+🎯 Passionate about building AI-powered web applications and continuously improving my development skills.
 
 ---
 
 ## 🛠️ Skills
 
 ### Programming Languages
-
 - Python
 - JavaScript
 - SQL
 
 ### Frontend
-
 - HTML
 - CSS
 - React.js
 
 ### Backend
-
 - Node.js
-- Express.js
 
 ### Database
-
 - MySQL
 
-### AI / ML
-
-- LangChain
-- Hugging Face
-- TensorFlow
-- YOLOv8
-- OpenCV
-
 ### Tools
-
 - Git
 - GitHub
 - VS Code
-- Streamlit
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 ### 🤖 AI Interview Preparation Platform
 
-AI-powered platform for mock interviews, AI-generated questions, score tracking, and performance analysis.
+An AI-powered interview preparation platform that helps users practice technical and HR interviews.
 
-### 🚦 Smart Traffic Violation Detection
+**Features**
+- 🔐 User Authentication
+- 🤖 AI-generated Interview Questions
+- 📊 Performance Dashboard
+- 🏆 Leaderboard
+- 📈 Score Tracking
+- 💬 AI Feedback
 
-YOLOv8-based AI system for detecting helmet, triple riding, and zebra crossing violations.
-
-### 📚 Automated Knowledge Extraction & QA Generation
-
-Generates questions and answers automatically from documents using LangChain and Hugging Face.
+**Tech Stack**
+- React.js
+- Node.js
+- MySQL
+- JavaScript
 
 ---
 
 ## 📫 Connect with Me
 
-GitHub:
-https://github.com/harpreetpaul04
+- GitHub: https://github.com/harpreetpaul04
 
 ---
 
